@@ -1,0 +1,11 @@
+warehouse_id,warehouse_name,city,state,warehouse_capacity,warehouse_type
+WH001,Pune Central Warehouse,Pune,Maharashtra,500000,Central
+WH002,Nashik Warehouse,Nashik,Maharashtra,250000,Regional
+WH003,Mumbai Distribution Hub,Mumbai,Maharashtra,600000,Central
+WH004,Ahmedabad Regional Facility,Ahmedabad,Gujarat,300000,Regional
+WH005,Hyderabad Pharma Hub,Hyderabad,Telangana,450000,Central
+WH006,Bengaluru South Depot,Bengaluru,Karnataka,350000,Regional
+WH007,Chennai Coastal Depot,Chennai,Tamil Nadu,280000,Regional
+WH008,Delhi NCR Logistics Center,Delhi,Delhi,550000,Central
+WH009,Indore Central Depot,Indore,Madhya Pradesh,200000,Regional
+WH010,Nagpur Transit Facility,Nagpur,Maharashtra,150000,Transit

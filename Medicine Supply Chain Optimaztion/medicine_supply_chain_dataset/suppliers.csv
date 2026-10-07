@@ -1,0 +1,31 @@
+supplier_id,supplier_name,city,state,medicine_id,contract_start_date,lead_time_days,minimum_order_qty,supplier_rating
+SUP001,Alpha Pharma,Indore,Madhya Pradesh,"MED251,MED073,MED296,MED138",28-04-2022,15,5000,2.7
+SUP002,MedCare Distributors,Bengaluru,Karnataka,"MED143,MED189,MED233,MED250,MED168",06-04-2023,3,500,4.3
+SUP003,HealthFirst Pharma,Hyderabad,Telangana,MED274,25-03-2022,9,5000,4.6
+SUP004,Apex Lifesciences,Vadodara,Gujarat,"MED281,MED296,MED067",05-03-2023,-1,2000,4.7
+SUP005,Nexus Healthcare,Indore,Madhya Pradesh,"MED009,MED064,MED081,MED226",23-07-2022,3,5000,3
+SUP006,BioMed Solutions,Indore,Madhya Pradesh,"MED082,MED141,MED048",08-01-2022,11,500,3.4
+SUP007,Global Care Pharma,Bengaluru,Karnataka,"MED120,MED220,MED047",13-07-2020,3,1000,3.7
+SUP008,Zenith Organics,Indore,Madhya Pradesh,"MED005,MED176,MED062,MED217",27-09-2020,18,500,3.1
+SUP009,Sunline Pharma,Pune,Maharashtra,"MED189,MED154,MED071",22-02-2022,7,1000,2.7
+SUP010,Vanguard Meds,Nagpur,Maharashtra,"MED180,MED110,MED078,MED211",25-06-2022,9,500,4.7
+SUP011,Pinnacle Health,Bengaluru,Karnataka,"MED220,MED162,MED072",22-05-2021,11,500,3.1
+SUP012,Meridian Labs,Vadodara,Gujarat,MED155,24-02-2021,19,10000,3.8
+SUP013,Aura Pharmaceuticals,Mumbai,Maharashtra,"MED254,MED198",18-08-2020,10,5000,4.1
+SUP014,Beacon Biomed,Mumbai,Maharashtra,"MED163,MED068,MED199",10-03-2023,16,2000,3.9
+SUP015,Crestview Pharma,Pune,Maharashtra,MED035,29-01-2020,11,1000,2.6
+SUP016,Horizon Healthcare,Delhi,Delhi,"MED257,MED213,MED217",03-04-2022,5,10000,3.8
+SUP017,Integrity Bio,Pune,Maharashtra,"MED105,MED080,MED275,MED168,MED201",15-05-2020,12,5000,4.3
+SUP018,Kinnex Pharma,Pune,Maharashtra,"MED060,MED233,MED029,MED159",25-12-2020,6,500,4.3
+SUP019,LifeSpan Healthcare,Hyderabad,Telangana,"MED265,MED133,MED086,MED191,MED065",04-07-2021,6,500,3.3
+SUP020,Matrix Pharma,Vadodara,Gujarat,"MED040,MED255,MED234,MED262,MED185",23-04-2020,18,10000,2.9
+SUP021,Nova Remedies,Baddi,Himachal Pradesh,MED117,08-11-2022,-1,500,0
+SUP022,Omni Life Sciences,Hyderabad,Telangana,"MED077,MED092,MED019,MED284",08-05-2022,10,2000,3.1
+SUP023,Pacifica Med,Pune,Maharashtra,"MED191,MED062,MED258,MED027,MED092",02-04-2021,19,500,4.9
+SUP024,Quantum Pharma,Vadodara,Gujarat,"MED168,MED045,MED284",24-07-2022,3,2000,3
+SUP025,Reliable Meds,Baddi,Himachal Pradesh,"MED238,MED189",07-10-2022,-1,10000,4.4
+SUP026,Supplier 26 Pharma,Bengaluru,Karnataka,MED120,14-01-2023,14,500,0
+SUP027,Supplier 27 Pharma,Vadodara,Gujarat,MED106,21-12-2022,10,5000,3.7
+SUP028,Supplier 28 Pharma,Vadodara,Gujarat,MED023,19-04-2021,19,5000,4.3
+SUP029,Supplier 29 Pharma,Pune,Maharashtra,"MED049,MED259,MED069,MED202,MED039",08-03-2023,4,5000,4.2
+SUP030,Supplier 30 Pharma,Hyderabad,Telangana,"MED168,MED163,MED232,MED140",23-04-2021,5,1000,2.8
